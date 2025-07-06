@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\jayve\eclipse-workspace\Week 3\Spring Core and Maven\Exercise 1\LibraryManagement\.metadata\.plugins\org.eclipse.jdt.core
+1531412002.index
+3413270776.index
+1865797976.index
